@@ -1,5 +1,5 @@
 ### gtotp
 
-Totp in Golang, support 10 digits.
+Totp in Golang.
 
 
